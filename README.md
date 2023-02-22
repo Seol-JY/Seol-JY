@@ -1,7 +1,7 @@
 ### Hello, i'm JINYEONG SEOL 👋
 
 #### Web Development
-Prospective web developers who love to create 
+Prospective web developers who love to create  
 Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 🛠️ Stacks
