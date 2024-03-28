@@ -4,7 +4,9 @@
 Prospective web developers who love to create  
 Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
-🛠️ Stacks
+<br/>
+
+🛠️ **Stacks**
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>  
@@ -14,5 +16,22 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe-xd&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>  
 
+
+<br/>
+
+⭐️ **Activities**
+ 
+<a href="https://github.com/Seol-JY/likelion-backend" style="font-size: 0.7em; color: inherit;">LIKELION 11th 아기사자 (23.03.20 ~ 23.12.23)</a><br/>
+<a href="https://github.com/stars/Seol-JY/lists/woowacourse-precourse" style="font-size: 0.7em; color: inherit;">우아한테크코스 프리코스 (23.10.19 ~ 23.11.15)</a><br/>
+
+<br/>
+
+🏁 **Projects**
+
+⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;">개발자를 위한 타자연습, SpeedCoder</a><br/>
+🥬 <a href="https://github.com/TEAM-NANUM" style="font-size: 0.7em;">고령층을 위한 농산물 직거래 플랫폼, 한채</a><br/>
+🗑️ <a href="https://github.com/Seol-JY/boonbae-backend" style="font-size: 0.7em;">재활용 정보 제공 서비스, 분배법칙</a><br/>
+📍 <a href="https://github.com/kihyaa" style="font-size: 0.7em;">온라인 아이젠하워 매트릭스, Ei Planner</a><br/>
+🔖 <a href="https://github.com/Seol-JY/link-hub" style="font-size: 0.7em;">북마크 공유 서비스, LinkHub</a><br/>
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
