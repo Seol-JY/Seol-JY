@@ -29,10 +29,10 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 🏁 **Projects**
 
-⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;">개발자를 위한 타자연습, SpeedCoder</a><br/>
-🥬 <a href="https://github.com/TEAM-NANUM" style="font-size: 0.7em;">고령층을 위한 농산물 직거래 플랫폼, 한채</a><br/>
-🗑️ <a href="https://github.com/Seol-JY/boonbae-backend" style="font-size: 0.7em;">재활용 정보 제공 서비스, 분배법칙</a><br/>
-📍 <a href="https://github.com/kihyaa" style="font-size: 0.7em;">온라인 아이젠하워 매트릭스, Ei Planner</a><br/>
-🔖 <a href="https://github.com/Seol-JY/link-hub" style="font-size: 0.7em;">북마크 공유 서비스, LinkHub</a><br/>
+⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;">개발자를 위한 타자연습, SpeedCoder (Full)</a><br/>
+🥬 <a href="https://github.com/TEAM-NANUM" style="font-size: 0.7em;">고령층을 위한 농산물 직거래 플랫폼, 한채 (Full)</a><br/>
+🗑️ <a href="https://github.com/Seol-JY/boonbae-backend" style="font-size: 0.7em;">재활용 정보 제공 서비스, 분배법칙 (Backend)</a><br/>
+📍 <a href="https://github.com/kihyaa" style="font-size: 0.7em;">온라인 아이젠하워 매트릭스, Ei Planner (Frontend)</a><br/>
+🔖 <a href="https://github.com/Seol-JY/link-hub" style="font-size: 0.7em;">북마크 공유 서비스, LinkHub (Full)</a><br/>
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
