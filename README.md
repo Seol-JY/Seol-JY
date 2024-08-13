@@ -38,4 +38,17 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 <br/>
 
+🤝 **Opensource Contribution**  
+
+- **spring-data-jpa**
+  - SimpleJpaRepository의 delete 메서드 성능 개선 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
+  - assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
+- **spring-ai**
+  - ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
+  - toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
+
+
+<br/>
+
+
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
