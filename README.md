@@ -46,7 +46,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 - **spring-data-jpa**
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/4f542915f54b94c68277958486d1dde6db65bcdf) SimpleJpaRepository의 delete 메서드 성능 개선 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
-  - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/9e54c37a8a3cc0b0697498529155db2894772416) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
+  - [[Released]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
 - **spring-ai**
   - [[Merged]](https://github.com/spring-projects/spring-ai/commit/698a531daed7d23b179b05e7edd8cbc993083eab) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
