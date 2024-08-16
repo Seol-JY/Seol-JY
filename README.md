@@ -49,7 +49,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
 - **spring-ai**
-  - [[Merged]](https://github.com/spring-projects/spring-ai/commit/698a531daed7d23b179b05e7edd8cbc993083eab) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
+  - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
   - [[Merged]](https://github.com/spring-projects/spring-ai/commit/9bd963567486ee439fcd1d139a33db251fac4597) toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
 
 
