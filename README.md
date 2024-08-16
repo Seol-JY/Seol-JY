@@ -44,7 +44,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 🤝 **Opensource Contribution**  
 
 - **spring-data-jpa**
-  - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/4f542915f54b94c68277958486d1dde6db65bcdf) SimpleJpaRepository의 delete 메서드 성능 개선 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
+  - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) SimpleJpaRepository의 delete 메서드 성능 개선 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
