@@ -68,8 +68,8 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Seol-JY?pet-id=614512665279706100"
-    width="1000"
-    height="135"
+    width="800"
+    height="140"
   />
 </a>
   
