@@ -59,4 +59,17 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeol-JY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
+
+</a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeol-JY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Seol-JY?pet-id=614512665279706100"
+    width="1000"
+    height="140"
+  />
+</a>
+  
