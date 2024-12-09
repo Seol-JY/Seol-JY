@@ -6,7 +6,9 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 <br/>
 
-#####  ⌨️ 타자속도 자랑하기 👉 [SpeedCoder](https://speedcoder.seol.pro/)
+**⌨️ 타자속도 자랑하기 👉 [SpeedCoder](https://speedcoder.seol.pro/)**  
+**🤝 팀프로젝트 잘하는법  👉 [Colla](https://colla.so/)**
+
 <br/>
 
 🛠️ **Stacks**
@@ -33,7 +35,8 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 🏁 **Projects**
 
 - ⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;">개발자를 위한 타자연습, SpeedCoder (Full)</a><br/>
-- 🤝 <a href="https://github.com/98OO" style="font-size: 0.7em;">대학생을 위한 협업 플랫폼, Colla (Backend)</a><br/>
+- 🐥 <a href="https://github.com/toduck-App/toduck-backend" style="font-size: 0.7em;">성인 ADHD 환자들을 위한 토닥임, Toduck(Backend)</a><br/>
+- 🤝 <a href="https://github.com/98OO" style="font-size: 0.7em;">대학생을 위한 협업 플랫폼, Colla (Design, Backend)</a><br/>
 - 🥬 <a href="https://github.com/TEAM-NANUM" style="font-size: 0.7em;">고령층을 위한 농산물 직거래 플랫폼, 한채 (Full)</a><br/>
 - 🗑️ <a href="https://github.com/Seol-JY/boonbae-backend" style="font-size: 0.7em;">재활용 정보 제공 서비스, 분배법칙 (Backend)</a><br/>
 - 📍 <a href="https://github.com/kihyaa" style="font-size: 0.7em;">온라인 아이젠하워 매트릭스, Ei Planner (Frontend)</a><br/>
