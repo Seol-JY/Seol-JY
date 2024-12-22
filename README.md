@@ -47,11 +47,15 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 🤝 **Opensource Contribution**  
 
 - **spring-data-jpa**
-  - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) SimpleJpaRepository의 delete 메서드 성능 개선 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
+  - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) **SimpleJpaRepository의 delete 메서드 성능 개선** - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
   - [Merged] Refactor order clause generation using Stream API - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3611)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/55a3112cb25c37d7c82afbae637102157447e0b0) Add @Serial annotation to all serialVersionUID field - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3584)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
+
+- **fixture-monkey**
+  - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [Issue](https://github.com/naver/fixture-monkey/issues/1126)
+
 
 - **spring-ai**
   - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
