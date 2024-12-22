@@ -54,7 +54,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
 - **fixture-monkey**
-  - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [Issue](https://github.com/naver/fixture-monkey/issues/1126)
+  - **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [Issue](https://github.com/naver/fixture-monkey/issues/1126)
 
 
 - **spring-ai**
