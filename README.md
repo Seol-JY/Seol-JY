@@ -25,12 +25,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 <br/>
 
-⭐️ **Activities**
- 
-- <a href="https://github.com/Seol-JY/likelion-backend" style="font-size: 0.7em; color: inherit;">LIKELION 11th 아기사자 (23.03.20 ~ 23.12.23)</a><br/>
-- <a href="https://github.com/stars/Seol-JY/lists/woowacourse-precourse" style="font-size: 0.7em; color: inherit;">우아한테크코스 프리코스 (23.10.19 ~ 23.11.15)</a><br/>
 
-<br/>
 
 🏁 **Projects**
 
