@@ -41,18 +41,22 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 🤝 **Opensource Contribution**  
 
-- **spring-data-jpa**
+- **spring-projects/spring-data-jpa**
   - [[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) **SimpleJpaRepository의 delete 메서드 성능 개선** - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
   - [Merged] Refactor order clause generation using Stream API - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3611)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/55a3112cb25c37d7c82afbae637102157447e0b0) Add @Serial annotation to all serialVersionUID field - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3584)
   - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
-- **fixture-monkey**
+- **naver/fixture-monkey**
   - **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
 
+- **toss/frontend-fundamentals**
+  - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/aee1ac4ff05f833db50af50b789de5487ee03a3c) 폼 응집도 선택 기준 예시 구체화 - [PR](https://github.com/toss/frontend-fundamentals/pull/70)
+  - 시점 이동 줄이기의 read/view 일관성 개선 - [PR](https://github.com/toss/frontend-fundamentals/pull/93)
+  - 시점 이동 줄이기의 예제 일관성 개선 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/61)
 
-- **spring-ai**
+- **spring-projects/spring-ai**
   - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
   - [[Merged]](https://github.com/spring-projects/spring-ai/commit/9bd963567486ee439fcd1d139a33db251fac4597) toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
 
