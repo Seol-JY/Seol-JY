@@ -58,7 +58,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/47f19c146c13a14eca7584a912838f1669907248) 참고 이미지 가독성 개선 -[PR](https://github.com/toss/frontend-fundamentals/pull/103)
   - trailing comma 제거 -[PR](https://github.com/toss/frontend-fundamentals/pull/117)
   - 시점 이동 줄이기의 예제 일관성 개선 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/61)
-  - 일본어 번역 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/92)
+  - 일본어 번역 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/92) [PR](https://github.com/toss/frontend-fundamentals/pull/118)
 
 - **spring-projects/spring-ai**
   - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
