@@ -52,11 +52,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
 
 - **toss/frontend-fundamentals**
-  - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/aee1ac4ff05f833db50af50b789de5487ee03a3c) 폼 응집도 선택 기준 예시 구체화 - [PR](https://github.com/toss/frontend-fundamentals/pull/70)
-  - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/65bc54c09cf22e33f9e9b69ebc3aa2518c5baba7) 시점 이동 줄이기의 read/view 일관성 개선 - [PR](https://github.com/toss/frontend-fundamentals/pull/93)
-  - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/ad84ed3af3713aae49b179f6534a6d504f70d764) 잘못된 데이터 참조 수정 -[PR](https://github.com/toss/frontend-fundamentals/pull/102)
-  - [[Merged]](https://github.com/toss/frontend-fundamentals/commit/47f19c146c13a14eca7584a912838f1669907248) 참고 이미지 가독성 개선 -[PR](https://github.com/toss/frontend-fundamentals/pull/103)
-  - trailing comma 제거 -[PR](https://github.com/toss/frontend-fundamentals/pull/117)
+  - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/pulls?q=author%3ASeol-JY+)
   - 시점 이동 줄이기의 예제 일관성 개선 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/61)
   - 일본어 번역 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/92) [PR](https://github.com/toss/frontend-fundamentals/pull/118)
 
