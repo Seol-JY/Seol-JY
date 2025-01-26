@@ -52,9 +52,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - **ValidationPlugin의 inclusive가 정상적으로 동작하지 않는 문제** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
 
 - **toss/frontend-fundamentals**
-  - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/pulls?q=author%3ASeol-JY+)
-  - 시점 이동 줄이기의 예제 일관성 개선 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/61)
-  - 일본어 번역 Conversation 참여 - [PR](https://github.com/toss/frontend-fundamentals/pull/92) [PR](https://github.com/toss/frontend-fundamentals/pull/118)
+  - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/issues?q=mentions%3ASeol-JY)
 
 - **spring-projects/spring-ai**
   - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
