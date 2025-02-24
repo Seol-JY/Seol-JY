@@ -49,7 +49,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
 
 - **naver/fixture-monkey**
-  - **Validation Plugin이 Jakarta Validation 스펙을 정확히 따르도록 개선(오류 해결, 기능 추가)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
+  - **[[Merged]](https://github.com/naver/fixture-monkey/commit/f9d5704ed5d2f3e0b8082713ebaac3f823dc9e26) Validation Plugin이 Jakarta Validation 스펙을 정확히 따르도록 개선(오류 해결, 기능 추가)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
 
 - **toss/frontend-fundamentals**
   - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/issues?q=mentions%3ASeol-JY)
