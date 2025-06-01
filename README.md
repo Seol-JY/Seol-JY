@@ -7,7 +7,8 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 <br/>
 
 **⌨️ 타자속도 자랑하기 👉 [SpeedCoder](https://speedcoder.seol.pro/)**  
-**🤝 팀프로젝트 잘하는법  👉 [Colla](https://colla.so/)**
+**🤝 팀프로젝트 잘하는법  👉 [Colla](https://colla.so/)**  
+**🍅 ADHD 극복하기 👉 [Toduck](https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629)**
 
 <br/>
 
