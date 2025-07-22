@@ -44,25 +44,35 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 - **spring-projects/spring-data-jpa**
   - **[[Released - 3.3.3]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) SimpleJpaRepository의 delete 메서드 성능 개선** - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
-  - [Merged] Refactor order clause generation using Stream API - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3611)
-  - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/55a3112cb25c37d7c82afbae637102157447e0b0) Add @Serial annotation to all serialVersionUID field - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3584)
-  - [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
-  - [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
-
-- **naver/fixture-monkey**
-  - **[[Merged]](https://github.com/naver/fixture-monkey/commit/f9d5704ed5d2f3e0b8082713ebaac3f823dc9e26) Validation Plugin이 Jakarta Validation 스펙을 정확히 따르도록 개선(오류 해결, 기능 추가)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
-  - **[[Merged]](https://github.com/naver/fixture-monkey/commit/d5ba0a2f38b5b92806618c43a25147501efe8db6) 정수 제약 조건 관리 구조 단순화(리펙터링, 기능 향상)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1153), [PR](https://github.com/naver/fixture-monkey/pull/1156)
-  - [[Conversation]](https://github.com/naver/fixture-monkey/pull/1192) Add IntegerCombinableArbitrary for easy Integer customization 리뷰
 
 - **spring-projects/spring-ai**
   - **[[In Progress]](https://github.com/spring-projects/spring-ai/pull/3862) Function calling에서 JSON schema 생성 캐싱을 통한 성능 개선** - [ISSUE](https://github.com/spring-projects/spring-ai/issues/3403), [PR](https://github.com/spring-projects/spring-ai/pull/3862)
-  - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
-  - [[Merged]](https://github.com/spring-projects/spring-ai/commit/9bd963567486ee439fcd1d139a33db251fac4597) toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
-  - [[Contribution]](https://github.com/spring-projects/spring-ai/issues/794#issuecomment-2151055641) BeanOutputConverter에서 복잡한 Json schema 생성을 위한 Jakarta Validation 지원 제안
-    
+  - **[[Contribution]](https://github.com/spring-projects/spring-ai/issues/794#issuecomment-2151055641) BeanOutputConverter에서 복잡한 Json schema 생성을 위한 Jakarta Validation 지원 제안**
+
+- **naver/fixture-monkey**
+  - **[[Merged]](https://github.com/naver/fixture-monkey/commit/f9d5704ed5d2f3e0b8082713ebaac3f823dc9e26) Validation Plugin이 Jakarta Validation 스펙을 정확히 따르도록 개선** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
+  - **[[Merged]](https://github.com/naver/fixture-monkey/commit/d5ba0a2f38b5b92806618c43a25147501efe8db6) 정수 제약 조건 관리 구조 단순화(리펙터링, 기능 향상)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1153), [PR](https://github.com/naver/fixture-monkey/pull/1156)
+
 - **toss/frontend-fundamentals**
   - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/issues?q=mentions%3ASeol-JY)
 
+<details>
+<summary><b>더 많은 기여 보기</b></summary>
+
+**spring-projects/spring-data-jpa**
+- [Merged] Refactor order clause generation using Stream API - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3611)
+- [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/55a3112cb25c37d7c82afbae637102157447e0b0) Add @Serial annotation to all serialVersionUID field - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3584)
+- [[Merged]](https://github.com/spring-projects/spring-data-jpa/commit/fcdebde1e58379993670fc7d08531752f62c9c41) instanceof 리펙터링 및 불필요한 Type Check 제거 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3580)
+- [[Released - 3.2.9]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.2.9) assertion message의 오타 수정 - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3565)
+
+**naver/fixture-monkey**
+- [[Conversation]](https://github.com/naver/fixture-monkey/pull/1192) Add IntegerCombinableArbitrary for easy Integer customization 리뷰
+
+**spring-projects/spring-ai**
+- [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
+- [[Merged]](https://github.com/spring-projects/spring-ai/commit/9bd963567486ee439fcd1d139a33db251fac4597) toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
+
+</details>
 
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
