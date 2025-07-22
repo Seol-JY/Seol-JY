@@ -56,8 +56,11 @@ Currently in SSAFY 13th
 - **toss/frontend-fundamentals**
   - **Main Contributor** [전체 기여 목록](https://github.com/toss/frontend-fundamentals/issues?q=mentions%3ASeol-JY)
 
+<div align="right">
 <details>
 <summary><b>더 많은 기여 보기</b></summary>
+
+<div align="left">
 
 **spring-projects/spring-data-jpa**
 - [Merged] Refactor order clause generation using Stream API - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3611)
@@ -72,7 +75,9 @@ Currently in SSAFY 13th
 - [[Released - 1.0.0-M1]](https://github.com/spring-projects/spring-ai/releases/tag/v1.0.0-M1) ContentFormatTransformer 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/183)
 - [[Merged]](https://github.com/spring-projects/spring-ai/commit/9bd963567486ee439fcd1d139a33db251fac4597) toString 메서드 리펙터링 - [PR](https://github.com/spring-projects/spring-ai/pull/173)
 
+</div>
 </details>
+</div>
 
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
