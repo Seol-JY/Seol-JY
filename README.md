@@ -58,7 +58,7 @@ Currently in SSAFY 13th
 
 <div align="right">
 <details>
-<summary><b>더 많은 기여 보기</b></summary>
+<summary><b>더 많은 기여 보기 &nbsp; &nbsp; &nbsp; &nbsp; </b></summary>
 
 <div align="left">
 
