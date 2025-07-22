@@ -2,13 +2,13 @@
 
 #### Web Development
 Prospective web developers who love to create  
-Majoring in Computer Engineering at Kumoh National Institute of Technology.
+Currently in SSAFY 13th
 
 <br/>
 
+**🍅 ADHD 극복하기 👉 [Toduck](https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629)**  
 **⌨️ 타자속도 자랑하기 👉 [SpeedCoder](https://speedcoder.seol.pro/)**  
 **🤝 팀프로젝트 잘하는법  👉 [Colla](https://colla.so/)**  
-**🍅 ADHD 극복하기 👉 [Toduck](https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629)**
 
 <br/>
 
@@ -18,7 +18,7 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/styled-component-DB7093?style=flat-square&logo=styledcomponent&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?stye=flat-square&logo=amazonaws&logoColor=white">  <img src="https://img.shields.io/badge/Github-Actions-2088FF?style=flat-square&logo=Github-actions&logoColor=white"/>    
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-squre &logo=c%2B%2B&logoColor=white">  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Flutter&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 
 
@@ -30,9 +30,9 @@ Majoring in Computer Engineering at Kumoh National Institute of Technology.
 
 🏁 **Projects**
 
-- ⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;">개발자를 위한 타자연습, SpeedCoder (전체)</a><br/>
-- 🐥 <a href="https://github.com/toduck-App/toduck-backend" style="font-size: 0.7em;">성인 ADHD 환자들을 위한 토닥임, Toduck(백엔드)</a><br/>
-- 🤝 <a href="https://github.com/98OO" style="font-size: 0.7em;">대학생을 위한 협업 플랫폼, Colla (디자인, 백엔드, 프론트 일부)</a><br/>
+- 🐥 <a href="https://github.com/toduck-App/toduck-backend" style="font-size: 0.7em;"><b>성인 ADHD 환자들을 위한 토닥임, Toduck(백엔드)</b></a><br/>
+- ⌨️ <a href="https://github.com/Seol-JY/SpeedCoder" style="font-size: 0.7em;"><b>개발자를 위한 타자연습, SpeedCoder (전체)</b></a><br/>
+- 🤝 <a href="https://github.com/98OO" style="font-size: 0.7em;"><b>대학생을 위한 협업 플랫폼, Colla (디자인, 백엔드, 프론트 일부)</b></a><br/>
 - 🥬 <a href="https://github.com/TEAM-NANUM" style="font-size: 0.7em;">고령층을 위한 농산물 직거래 플랫폼, 한채 (전체)</a><br/>
 - 🗑️ <a href="https://github.com/Seol-JY/boonbae-backend" style="font-size: 0.7em;">재활용 정보 제공 서비스, 분배법칙 (백엔드, 프론트 일부)</a><br/>
 - 📍 <a href="https://github.com/kihyaa" style="font-size: 0.7em;">온라인 아이젠하워 매트릭스, Ei Planner (디자인, 프론트엔드)</a><br/>
