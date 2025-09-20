@@ -2,7 +2,6 @@
 
 #### Web Development
 Prospective web developers who love to create  
-Currently in SSAFY 13th
 
 <br/>
 
