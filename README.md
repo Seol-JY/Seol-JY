@@ -85,7 +85,6 @@ Prospective web developers who love to create
 </div>
 
 
-![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=Seol-JY&include_all_commits=true&include_orgs=true&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seol-JY&langs_count=8&layout=compact&include_orgs=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
