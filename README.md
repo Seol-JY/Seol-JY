@@ -102,3 +102,8 @@ Prospective web developers who love to create
 <br/>
 
 </a> 
+
+<div align="right">
+  
+  [![Hits](https://hits.sh/github.com/Seol-JY.svg?view=today-total&style=flat-square&extraCount=5329)](https://hits.sh/github.com/Seol-JY/)
+</div>
