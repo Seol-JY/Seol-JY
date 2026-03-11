@@ -1,7 +1,5 @@
 ### [Hello, i'm JINYEONG SEOL 👋](https://jinyeong.seol.pro)
 
-#### Web Development
-Prospective web developers who love to create  
 
 <br/>
 
