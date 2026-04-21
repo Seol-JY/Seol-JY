@@ -16,7 +16,7 @@
 ### 🛡️ Security Contribution
 
 - **spring-projects/spring-security**
-  - **[\[CVE-2026-22751\]](https://spring.io/security/cve-2026-22751) `JdbcOneTimeTokenService`의 TOCTOU Race Condition 취약점 제보 및 패치 기여** (Severity: Medium, CWE-367)
+  - **[\[CVE-2026-22751\]](https://spring.io/security/cve-2026-22751) `JdbcOneTimeTokenService`의 TOCTOU Race Condition 취약점 제보 및 패치 기여** 
     - 일회용 토큰(OTT) 소비 과정에서 DB 삭제 결과를 검증하지 않아, 동시성 환경에서 단일 토큰으로 복수 세션 인증이 가능한 취약점
     - [Spring Advisory](https://spring.io/security/cve-2026-22751) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-22751) · [Write-up](https://jinyeong.seol.pro/blogs/cve-2026-22751/)
 
