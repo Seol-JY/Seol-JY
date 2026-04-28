@@ -20,6 +20,11 @@
     - 일회용 토큰(OTT) 소비 과정에서 DB 삭제 결과를 검증하지 않아, 동시성 환경에서 단일 토큰으로 복수 세션 인증이 가능한 취약점
     - [Spring Advisory](https://spring.io/security/cve-2026-22751) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-22751) · [Write-up](https://jinyeong.seol.pro/blogs/cve-2026-22751/)
 
+- **spring-projects/spring-ai**
+  - **[\[CVE-2026-40966\]](https://spring.io/security/cve-2026-40966) `VectorStoreChatMemoryAdvisor`의 Filter Expression Injection 취약점 제보**
+    - 클라이언트 입력 `conversationId`를 이스케이프 없이 필터 표현식에 결합해, 단일 요청으로 VectorStore 내 전체 사용자의 대화 이력을 우회 조회할 수 있는 취약점
+    - [Spring Advisory](https://spring.io/security/cve-2026-40966) · [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-40966) · [Write-up](https://jinyeong.seol.pro/blogs/cve-2026-40966/)
+
 <br/>
 
 ### 🤝 Opensource Contribution
