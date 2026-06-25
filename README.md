@@ -40,6 +40,11 @@
 - **naver/fixture-monkey**
   - **[\[Merged\]](https://github.com/naver/fixture-monkey/commit/f9d5704ed5d2f3e0b8082713ebaac3f823dc9e26) Validation Plugin이 Jakarta Validation 스펙을 정확히 따르도록 개선** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1126), [PR](https://github.com/naver/fixture-monkey/pull/1131)
   - **[\[Merged\]](https://github.com/naver/fixture-monkey/commit/d5ba0a2f38b5b92806618c43a25147501efe8db6) 정수 제약 조건 관리 구조 단순화(리펙터링, 기능 향상)** - [ISSUE](https://github.com/naver/fixture-monkey/issues/1153), [PR](https://github.com/naver/fixture-monkey/pull/1156)
+ 
+
+ - **apache/incubator-seata**
+  - **[\[Merged - 2.8.0\]](https://github.com/apache/incubator-seata/commit/396ed94) TCC fence 정리 시 진행 중(TRIED)이거나 만료되지 않은 형제 브랜치 레코드까지 삭제되던 버그 수정** - [PR](https://github.com/apache/incubator-seata/pull/8138)
+
 
 - **toss/es-toolkit**
   - **[\[In Progress\]](https://github.com/toss/es-toolkit/pull/1532) throttle의 trailing edge 옵션이 debounce처럼 동작하는 버그 수정** - [ISSUE](https://github.com/toss/es-toolkit/issues/1212), [PR](https://github.com/toss/es-toolkit/pull/1532)
