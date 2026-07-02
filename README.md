@@ -12,7 +12,7 @@
 
 <br/>
 
-
+a
 ### 🛡️ Security Contribution
 
 - **spring-projects/spring-security**
@@ -34,6 +34,7 @@
   - **[\[Released - 3.3.3\]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.3.3) SimpleJpaRepository의 delete 메서드 성능 개선** - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3564)
 
 - **spring-projects/spring-ai**
+  - **[\[Merged - 2.0.1\]](https://github.com/spring-projects/spring-ai/commit/cb28ba3) Milvus 벡터 스토어에서 괄호 그룹의 연산자 우선순위가 깨져 의도하지 않은 문서가 매칭되던 필터 버그 수정** - [PR](https://github.com/spring-projects/spring-ai/pull/6543)
   - **[\[In Progress\]](https://github.com/spring-projects/spring-ai/pull/3862) Function calling에서 JSON schema 생성 캐싱을 통한 성능 개선** - [ISSUE](https://github.com/spring-projects/spring-ai/issues/3403), [PR](https://github.com/spring-projects/spring-ai/pull/3862)
   - **[\[Contribution\]](https://github.com/spring-projects/spring-ai/issues/794#issuecomment-2151055641) BeanOutputConverter에서 복잡한 Json schema 생성을 위한 Jakarta Validation 지원 제안**
 
