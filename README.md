@@ -12,7 +12,7 @@
 
 <br/>
 
-a
+
 ### 🛡️ Security Contribution
 
 - **spring-projects/spring-security**
